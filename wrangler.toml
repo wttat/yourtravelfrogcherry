@@ -1,0 +1,6 @@
+name = "yourtravelfrogcherry"
+main = "functions/__main__.js"
+compatibility_date = "2023-04-27"
+
+[r2_buckets]
+bucket_name = "yourtravelfrogcherry"
